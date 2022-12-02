@@ -1,1 +1,1 @@
-const fs = require('fs');console.log('out');
+console.log('out var');
