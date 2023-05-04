@@ -1,1 +1,1 @@
-console.log('out var');
+console.log('out')
